@@ -1,5 +1,5 @@
 {
-  "name": "weather-radar-card",
+  "name": "weather-map-card",
   "version": "2.2.0",
   "type": "module",
   "description": "A rain radar card using data from RainViewer",
@@ -11,8 +11,8 @@
     "lovelace",
     "custom-cards"
   ],
-  "module": "weather-radar-card.js",
-  "repository": "git@github.com:makin-things/weather-radar-card.git",
+  "module": "weather-map-card.js",
+  "repository": "git@github.com:sivartd/Weather-Map-Card.git",
   "author": "Simon Ratcliffe <simon@makin-things.com>",
   "license": "MIT",
   "dependencies": {

@@ -46,6 +46,7 @@ export default [
     output: {
       dir: 'dist',
       format: 'es',
+      entryFileNames: 'weather-map-card.js',
     },
     plugins: [...plugins],
   },
